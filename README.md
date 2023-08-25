@@ -28,9 +28,9 @@ exampleplugin/
 1. Open a command prompt and cd to the repository root. If you are using Windows, you can just press shift and right click in the file explorer, then click "Open PowerShell window here".
 2. Run the command below to initialize the tooth. The command will create a tooth.json under the root of the repository.
 
-`<font color=#ff0000>shell</font>`  
-`  <font color=Red>lip tooth init</font>`  
-<font color=Blue>Test</font>
+`$${\color{red}shell}$$`        
+`  $${\color{red}lip tooth init}$$`
+ 
 
 
 
